@@ -1,5 +1,5 @@
 # Interactive Sudoku Solver & Game
-#### Video Demo: <YOUR_VIDEO_DEMO_URL_HERE>
+#### Video Demo: https://youtube.com/shorts/hji5klyjF60
 #### Description:
 
 This project is an interactive, graphic-based 9x9 Sudoku game and validator built in C++ using Object-Oriented Programming (OOP) principles and the `CMUgraphicsLib` library. Originally adapted from a Snake/Monopoly command-based framework, it has been fully refactored and migrated into a complete Sudoku environment featuring interactive cell selection, real-time board validation, and difficulty-based level loading.
