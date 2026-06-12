@@ -1,0 +1,15 @@
+.vs/
+Debug/
+Release/
+ipch/
+*.db
+*.opendb
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.exe
+*.obj
+*.log
+*.tlog
+*.lastbuildstate
